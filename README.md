@@ -7,3 +7,6 @@
 # GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=metehan41)](https://github.com/metehan41/github-readme-stats)
 
+# Most Used Language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+

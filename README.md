@@ -1,4 +1,4 @@
-# About Me
+# About Me:
 
 👋 Hi! I'm a student at Hacettepe University, and I'm really into AI. I love working with Machine Learning and Data Science, where I get to play with data and find cool patterns. I'm on a mission to understand how AI can make our lives better.🌟
 
@@ -32,5 +32,7 @@
 # Most Used Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metehan41&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=metehan41&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+[![](https://visitcount.itsvg.in/api?id=metehan41&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

@@ -5,7 +5,10 @@
 
 # GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=metehan41)](https://github.com/metehan41/github-readme-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=metehan41&theme=dark&hide_border=true)<br/>
 
 # Most Used Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metehab41&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metehan41&layout=compact)
+
+[![](https://visitcount.itsvg.in/api?id=metehan41&icon=0&color=0)](https://visitcount.itsvg.in)
 
